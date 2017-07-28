@@ -1,2 +1,2 @@
 # Frontend Screening
-Nothing new here. Already submitted. Just keeping a copy here.
+Nothing new here. Already submitted by email. Just keeping a copy here.
