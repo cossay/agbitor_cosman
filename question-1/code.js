@@ -80,4 +80,5 @@ console.log(convertToWord(1011));
 console.log(convertToWord(7466474));
 console.log(convertToWord(9685747443));
 console.log(convertToWord(53536));
+console.log(convertToWord(47885));
 //NOTE: YOU MAY IGNORE THIS ANSWER AS I COULDN'T FINISH IT WITHIN THE ALLOCATED TIME
